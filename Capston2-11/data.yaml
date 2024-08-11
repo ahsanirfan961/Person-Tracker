@@ -7,6 +7,6 @@ roboflow:
   url: https://universe.roboflow.com/siwookim/capston2/dataset/11
   version: 11
   workspace: siwookim
-test: 'D:\Machine Learning\Projects\Python_Environment\Person-Tracker\Capston2-11\test'
-train: 'D:\Machine Learning\Projects\Python_Environment\Person-Tracker\Capston2-11\train'
-val: 'D:\Machine Learning\Projects\Python_Environment\Person-Tracker\Capston2-11\valid'
+test: 'D:\Ahsan\Programming\Computer Vision\Projects\Person-Tracker\Capston2-11\test'
+train: 'D:\Ahsan\Programming\Computer Vision\Projects\Person-Tracker\Capston2-11\train'
+val: 'D:\Ahsan\Programming\Computer Vision\Projects\Person-Tracker\Capston2-11\valid'
